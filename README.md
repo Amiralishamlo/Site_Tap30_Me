@@ -7,7 +7,7 @@ Technologies for making this program :  html\css and Javascript
 #
 \
 ##WebView
-\
+
 #
 ![WebRTC Architecture](WebView_img/webview1.png)
 #
