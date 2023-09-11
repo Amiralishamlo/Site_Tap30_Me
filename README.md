@@ -23,7 +23,7 @@ Technologies for making this program :  html\css and Javascript
 ![WebRTC Architecture](WebView_img/webview7.png)
 #
 \
-##mobile
+#Mobile
 \
 ![WebRTC Architecture](WebView_img/webview8.png)
 #
