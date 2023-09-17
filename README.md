@@ -5,7 +5,7 @@ Building a Tepsi website with new features😁👨‍💻  made front of tap30.
 Technologies for making this program :  html\css and Javascript
 #
 \
-#WebView
+ Desktop View
 
 #
 ![Tap 30](WebView_img/webview1.png)
@@ -22,8 +22,7 @@ Technologies for making this program :  html\css and Javascript
 #
 ![Tap 30](WebView_img/webview7.png)
 #
-\
-#Mobile
-\
+ Mobile View
+#
 ![Tap 30](WebView_img/webview8.png)
 #
